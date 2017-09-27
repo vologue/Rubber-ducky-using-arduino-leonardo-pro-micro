@@ -3,4 +3,5 @@ An Arduino Script that exploits the ability of an
 Arduino leonardo board to act as an HID device 
 (A keyboard in this case). The script types the 
 necessary keystrokes to download Netcat and connect
-to the specefied ip and the port number.
+to the specefied ip and the port number and hence get
+a reverse shell on the attackers system.
